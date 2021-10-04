@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi em nò",
-    introTitle: 'Chào người tui thưnnnn  <Nguyễn Thái Thùy Linh <3>',
+    introTitle: 'Chào người tui thưnnnn Nguyễn Thái Thùy Linh <3  >',
     introDesc: `Sao không là ta của những lúc thường ngày
     Anh yêu em qua những dòng tin nhắnnn
     Ở bên anh đêm nay thôi`,
